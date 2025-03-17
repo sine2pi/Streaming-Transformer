@@ -1,5 +1,5 @@
 # 
-Streaming-Transformer eith adaptiive_update
+Streaming-Transformer with adaptiive_update
 
 
 ```python
